@@ -1,0 +1,71 @@
+,date,league,team1,team2,bet_side,win_prob
+0,2022-03-10,EPL,Leeds United,Aston Villa,Leeds United,0.361
+1,2022-03-10,EPL,Leeds United,Aston Villa,Aston Villa,0.387
+2,2022-03-10,EPL,Leeds United,Aston Villa,Draw,0.252
+3,2022-03-10,EPL,Norwich City,Chelsea,Norwich City,0.09
+4,2022-03-10,EPL,Norwich City,Chelsea,Chelsea,0.732
+5,2022-03-10,EPL,Norwich City,Chelsea,Draw,0.177
+6,2022-03-10,EPL,Southampton,Newcastle,Southampton,0.466
+7,2022-03-10,EPL,Southampton,Newcastle,Newcastle United,0.278
+8,2022-03-10,EPL,Southampton,Newcastle,Draw,0.256
+9,2022-03-10,EPL,Wolverhampton,Watford,Wolverhampton Wanderers,0.474
+10,2022-03-10,EPL,Wolverhampton,Watford,Watford,0.242
+11,2022-03-10,EPL,Wolverhampton,Watford,Draw,0.283
+0,2022-03-10,NBA,DEN,GSW,Denver Nuggets,0.623
+1,2022-03-10,NBA,DEN,GSW,Golden State Warriors,0.377
+2,2022-03-10,NBA,PHI,BRK,Philadelphia 76ers,0.766
+3,2022-03-10,NBA,PHI,BRK,Brooklyn Nets,0.234
+4,2022-03-11,NBA,ATL,LAC,Atlanta Hawks,0.78
+5,2022-03-11,NBA,ATL,LAC,Los Angeles Clippers,0.22
+6,2022-03-11,NBA,BOS,DET,Boston Celtics,0.935
+7,2022-03-11,NBA,BOS,DET,Detroit Pistons,0.065
+8,2022-03-11,NBA,HOU,DAL,Houston Rockets,0.291
+9,2022-03-11,NBA,HOU,DAL,Dallas Mavericks,0.709
+10,2022-03-11,NBA,LAL,WAS,Los Angeles Lakers,0.637
+11,2022-03-11,NBA,LAL,WAS,Washington Wizards,0.363
+12,2022-03-11,NBA,MEM,NYK,Memphis Grizzlies,0.778
+13,2022-03-11,NBA,MEM,NYK,New York Knicks,0.222
+14,2022-03-11,NBA,MIA,CLE,Miami Heat,0.82
+15,2022-03-11,NBA,MIA,CLE,Cleveland Cavaliers,0.18
+16,2022-03-11,NBA,NOP,CHO,New Orleans Pelicans,0.648
+17,2022-03-11,NBA,NOP,CHO,Charlotte Hornets,0.352
+18,2022-03-11,NBA,ORL,MIN,Orlando Magic,0.282
+19,2022-03-11,NBA,ORL,MIN,Minnesota Timberwolves,0.718
+20,2022-03-11,NBA,PHO,TOR,Phoenix Suns,0.747
+21,2022-03-11,NBA,PHO,TOR,Toronto Raptors,0.254
+22,2022-03-11,NBA,SAS,UTA,San Antonio Spurs,0.373
+23,2022-03-11,NBA,SAS,UTA,Utah Jazz,0.627
+0,2022-03-10,NHL,Buffalo Sabres,Vegas Golden Knights,Buffalo Sabres,0.379
+1,2022-03-10,NHL,Ottawa Senators,Seattle Kraken,Ottawa Senators,0.612
+2,2022-03-10,NHL,Boston Bruins,Chicago Blackhawks,Boston Bruins,0.717
+3,2022-03-10,NHL,Toronto Maple Leafs,Arizona Coyotes,Toronto Maple Leafs,0.733
+4,2022-03-10,NHL,Florida Panthers,Philadelphia Flyers,Florida Panthers,0.761
+5,2022-03-10,NHL,New Jersey Devils,Winnipeg Jets,New Jersey Devils,0.501
+6,2022-03-10,NHL,Carolina Hurricanes,Colorado Avalanche,Carolina Hurricanes,0.551
+7,2022-03-10,NHL,Detroit Red Wings,Minnesota Wild,Detroit Red Wings,0.41
+8,2022-03-10,NHL,New York Islanders,Columbus Blue Jackets,New York Islanders,0.608
+9,2022-03-10,NHL,Nashville Predators,Anaheim Ducks,Nashville Predators,0.668
+10,2022-03-10,NHL,St. Louis Blues,New York Rangers,St. Louis Blues,0.551
+11,2022-03-10,NHL,Calgary Flames,Tampa Bay Lightning,Calgary Flames,0.539
+12,2022-03-10,NHL,Los Angeles Kings,San Jose Sharks,Los Angeles Kings,0.661
+13,2022-03-11,NHL,Columbus Blue Jackets,Minnesota Wild,Columbus Blue Jackets,0.476
+14,2022-03-11,NHL,Pittsburgh Penguins,Vegas Golden Knights,Pittsburgh Penguins,0.583
+15,2022-03-11,NHL,New York Islanders,Winnipeg Jets,New York Islanders,0.575
+16,2022-03-11,NHL,Vancouver Canucks,Washington Capitals,Vancouver Canucks,0.527
+17,2022-03-10,NHL,Buffalo Sabres,Vegas Golden Knights,Vegas Golden Knights,0.622
+18,2022-03-10,NHL,Ottawa Senators,Seattle Kraken,Seattle Kraken,0.389
+19,2022-03-10,NHL,Boston Bruins,Chicago Blackhawks,Chicago Blackhawks,0.283
+20,2022-03-10,NHL,Toronto Maple Leafs,Arizona Coyotes,Arizona Coyotes,0.267
+21,2022-03-10,NHL,Florida Panthers,Philadelphia Flyers,Philadelphia Flyers,0.238
+22,2022-03-10,NHL,New Jersey Devils,Winnipeg Jets,Winnipeg Jets,0.499
+23,2022-03-10,NHL,Carolina Hurricanes,Colorado Avalanche,Colorado Avalanche,0.449
+24,2022-03-10,NHL,Detroit Red Wings,Minnesota Wild,Minnesota Wild,0.59
+25,2022-03-10,NHL,New York Islanders,Columbus Blue Jackets,Columbus Blue Jackets,0.393
+26,2022-03-10,NHL,Nashville Predators,Anaheim Ducks,Anaheim Ducks,0.332
+27,2022-03-10,NHL,St. Louis Blues,New York Rangers,New York Rangers,0.449
+28,2022-03-10,NHL,Calgary Flames,Tampa Bay Lightning,Tampa Bay Lightning,0.461
+29,2022-03-10,NHL,Los Angeles Kings,San Jose Sharks,San Jose Sharks,0.339
+30,2022-03-11,NHL,Columbus Blue Jackets,Minnesota Wild,Minnesota Wild,0.524
+31,2022-03-11,NHL,Pittsburgh Penguins,Vegas Golden Knights,Vegas Golden Knights,0.417
+32,2022-03-11,NHL,New York Islanders,Winnipeg Jets,Winnipeg Jets,0.425
+33,2022-03-11,NHL,Vancouver Canucks,Washington Capitals,Washington Capitals,0.472
